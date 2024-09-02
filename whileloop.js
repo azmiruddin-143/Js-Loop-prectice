@@ -45,7 +45,7 @@
 //    i++
 // }
 
-                                                                                       
+
 // let i = 0;
 // while (i<=25){
 //    if(i % 2 ==0){
@@ -60,4 +60,18 @@
 // while (az < 65) {
 //    console.log(az);
 //    az+=3
+// }
+
+
+// node whileloop.js
+
+// let i = 1;
+
+// while (i < 100) {
+
+//    if (i % 15 === 0) {
+//       console.log(i);
+//    }
+
+//    i++
 // }
